@@ -1,0 +1,162 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+
+.wrapper_vd{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+
+.video{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+
+
+ul{
+    display: flex;
+   align-items: center;
+    padding: 40px;
+}
+
+ul li a{
+    color: white;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+button{
+    width: 130px;
+    height: 50px;
+    color: white;
+    font-size: 13px;
+    font-weight: 400;
+    background: transparent;
+    border: 2px solid #FFFFFF
+}
+
+p{
+    font-size: 17.19px;
+    font-weight: 400;
+    color: #fff;
+
+}
+
+h2{
+    font-size: 41px;
+    font-weight: 400;
+    color: #FFFFFF;
+    margin-top: 4.5px;
+    margin-bottom: 18px;
+}
+
+.class{
+    margin-top: 437px;
+    margin-left: 310px;
+}
+
+
+.secvideo{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+
+.section{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+.mainvd{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+
+.main{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+
+.secvd{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+
+.secstar{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+
+
+.div{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+
+.mission{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+
+.foot{
+    display: flex;
+    
+}
+
+.foot li a{
+    color: white;
+    padding:px;
+}
+
+footer{
+    background: #000000;
+}
+
